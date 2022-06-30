@@ -1,2 +1,2 @@
-permalink: /burger-menu.html
+permalink: /index.html
 # QQsuumburger

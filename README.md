@@ -1,3 +1,2 @@
 permalink: /index.html
-# QQburger-github.io
-
+ PAGES: https://qqsuum.github.io/QQburger-github.io/

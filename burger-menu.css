@@ -43,6 +43,7 @@
 
 
 .button {
+	cursor: pointer;
 	display: inline-block;
 	height:  100%;
 	width: 40px;
